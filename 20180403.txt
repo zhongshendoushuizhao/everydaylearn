@@ -1,0 +1,100 @@
+20180403
+漏洞向
+			Flash Player 漏洞在一些 Exploit Kit 中的利用（CVE-2018-4878）		https://weibo.com/ttarticle/p/show?id=2309404224333810641154&mod=zwenzhang
+			macOS 1day 漏洞分析与利用（看看而已）										https://github.com/theori-io/zer0con2018_singi/blob/master/slide/singi_zer0con_2018_slide.pdf
+			DLink DIR-601管理员密码泄露                             https://cxsecurity.com/issue/WLB-2018040016			
+			Shodan 参考手册																					https://mp.weixin.qq.com/s/SVl_YLhcfNgHya6jEnKx1g
+			通过POC来学习漏洞的原理																	https://mp.weixin.qq.com/s/ogFLjUpd2HU60raUxGNWhg
+			POC-Collect																							https://github.com/Mr5m1th/POC-Collect
+			Exim Off-by-one(CVE-2018-6789)漏洞复现分析							http://0x48.pw/2018/03/30/0x42/     https://paper.seebug.org/557/
+			Chrome_Analysis_Zer0Con_2018_Final											https://github.com/theori-io/zer0con2018_bpak
+攻防向
+			pyfiscan - Web 应用漏洞与版本扫描工具										https://github.com/fgeek/pyfiscan
+			Get Domain Admins (GDA) - 辅助攻击域环境的脚本	       	https://github.com/nullbind/Other-Projects/tree/master/GDA
+			用鱼竿、鱼钩、鱼饵和彩蛋模拟一次网络渗透								http://www.freebuf.com/articles/web/166597.html
+			以太坊安全工具套件大合集																http://www.freebuf.com/column/167227.html
+			路由器漏洞 EXP 开发实践																	https://mp.weixin.qq.com/s/PcuX4ZpxlRRlmwvA9v42mA
+			pentestdb 架构详解																			https://mp.weixin.qq.com/s/b4cpUQf5K9oz2b3ka6dNgQ
+			优秀的 WIFI 渗透工具汇总																https://mp.weixin.qq.com/s/Why61qJGeT0y6w2iHEBhiA
+			利用DNS协议回显数据																			https://mp.weixin.qq.com/s/SZxWacuk5-rNqun76NtlIQ
+			Cobalt strike3.8 中文支持(Update)												https://evi1cg.me/archives/CS3_8_chinese_support.html
+			深入探索Cobalt Strike的ExternalC2框架										https://xz.aliyun.com/t/2239
+			DNS重新绑定攻击的恶意DNS服务器													https://github.com/brannondorsey/whonow
+			HUNT扫描程序																						https://github.com/bugcrowd/HUNT
+蜜罐向
+			bleah - 用于攻击智能设备的 BLE 扫描器                   https://github.com/evilsocket/bleah
+			测试放行端口或协议的网站 LetMeOutOfYour.Net 回归				https://weibo.com/ttarticle/p/show?id=2309404224333810641154&mod=zwenzhang
+			DLink DIR-601管理员密码泄露                             https://cxsecurity.com/issue/WLB-2018040016			
+			Yet Another Redis Miner																	https://xz.aliyun.com/t/2240
+			思科产品出现严重漏洞，导致大量设备面临远程攻击风险			http://www.freebuf.com/news/167200.html
+			以太坊安全工具套件大合集																http://www.freebuf.com/column/167227.html
+			Shodan 参考手册																					https://mp.weixin.qq.com/s/SVl_YLhcfNgHya6jEnKx1g
+			利用DNS协议回显数据																			https://mp.weixin.qq.com/s/SZxWacuk5-rNqun76NtlIQ
+
+
+APT向
+			基于SYLK文件传播Orcus远控木马样本分析										http://www.freebuf.com/articles/system/167141.html
+			Windows下的密码hash——Net-NTLMv1介绍											https://3gstudent.github.io/3gstudent.github.io/Windows%E4%B8%8B%E7%9A%84%E5%AF%86%E7%A0%81hash-Net-NTLMv1%E4%BB%8B%E7%BB%8D/
+			Invoke-ADLabDeployer - 自动创建 Hyper-V 虚拟机部署 Windows 域实验环境的 PowerShell 项目：	https://outflank.nl/blog/2018/03/30/automated-ad-and-windows-test-lab-deployments-with-invoke-adlabdeployer/GitHub： https://github.com/outflanknl/Invoke-ADLabDeployer
+			使用 Windows 事件日志检测域环境下以单一密码暴力破解众多账户的攻击		https://www.ziemba.ninja/?p=66
+			一个链接中隐藏多个 URL 的 PDF 钓鱼攻击									https://weibo.com/ttarticle/p/show?id=2309404224333810641154&mod=zwenzhang
+			TrickBot银行木马获取Screenlocker组件										https://paper.tuisec.win/detail/55b69fdb7b0ad39
+			apt攻击指南：教你布置鱼竿鱼钩鱼饵成为进攻者（附送彩蛋） https://paper.tuisec.win/detail/6059ddf969a1992
+			摩诃草APT组织针对我国敏感机构最新的网络攻击活动分析			http://www.freebuf.com/articles/paper/167191.html
+			境外黑客组织“白象”3月上旬对国内发起攻击									http://www.freebuf.com/articles/network/167254.html
+			藏在短链接下的挖矿木马：NovelMiner											http://www.freebuf.com/articles/paper/166458.html
+			DiskShadow工具介绍：VSS绕过、持久化感染和活动目录数据库提取		https://www.anquanke.com/post/id/103117
+			Fauxpersky：凭证窃取型恶意软件分析											https://www.anquanke.com/post/id/103121
+			Powershell绕过执行及脚本混淆														https://mp.weixin.qq.com/s/cJwekK4rQUmEyZTAXX_PVQ
+
+学习向：
+			一款第三方 AWS S3 工具的安全审计                         https://duo.com/blog/a-security-audit-of-third-party-aws-s3-tools
+			fuzzinator - 模糊测试框架																https://github.com/renatahodovan/fuzzinator
+			envizon - 一款为红/蓝团队需求而开发的网络可视化工具			https://github.com/evait-security/envizon
+			汇编基础教程																						https://platform.avatao.com/paths/a0dc20fc-f1b5-43c9-89fc-3a5fccfb5f0b/challenges/e63cb4dd-4777-4d2d-b81d-a822277983bc
+			攻击 TPM 可信平台模块																			https://github.com/nccgroup/TPMGenie/blob/master/docs/CanSecWest_2018_-_TPM_Genie_-_Jeremy_Boone.pdf
+			如何使用 ExploitDev 进行网络应用的模糊测试									https://hansesecure.de/howto-exploitdev-fuzzing/ 	  https://github.com/HanseSecure/ExploitDev				
+			如何编译、分析和调试基于 MIPS 架构的二进制文件：						https://www.ringzerolabs.com/2018/03/the-wonderful-world-of-mips.html
+			Google Chrome 现已支持将 Web 请求拷贝为 PowerShell 命令      https://weibo.com/ttarticle/p/show?id=2309404224333810641154&mod=zwenzhang
+			Google Chrome V8 引擎 PropertyArray 整数溢出漏洞攻击链构造： https://github.com/theori-io/zer0con2018_bpak/blob/master/Chrome_Analysis_Zer0Con_2018_Final.pdf
+			RSA加密解密原理深度剖析（附CTF中RSA题型实战分析）				http://www.freebuf.com/articles/others-articles/166049.html
+			挖洞经验 | 看我如何构造DSPL语言包发现Google的存储型XSS和SSRF漏洞		http://www.freebuf.com/articles/web/165652.html
+			脱壳系列—— *加密脱壳（Android使用手册破解）							http://www.freebuf.com/column/167245.html
+			「驭龙」开源主机入侵检测系统了解一下										https://www.anquanke.com/post/id/103408
+			利用恶意页面攻击本地Xdebug															https://paper.seebug.org/558/
+			从长亭的wiki上获取我想要的数据													https://mp.weixin.qq.com/s/xpClaDBOtIERwTUv3sbPvg
+			PE 病毒与 msf 奇遇记																		https://mp.weixin.qq.com/s/kRMuGMFOxUCW0whh8TtlTQ
+			SSL_TLS 攻击原理解析																		https://mp.weixin.qq.com/s/W620Pdu6qvoqjacSRPRVyg
+			记一次有趣的渗透测试																		https://mp.weixin.qq.com/s/w5Dl54oOA7-XYuSIrguy-w
+			RedTiger 通关学习总结																		https://mp.weixin.qq.com/s/nqfI10K423fO_KculsE8UQ
+			从sql注入到xslt再到xxe的一道ctf题目											https://mp.weixin.qq.com/s/OVf3eUxjSq9N5wGzfg8F-Q
+			IAT 三连之什么是 IAT？																	https://mp.weixin.qq.com/s/NYL-9lOBoOXEJF1x3Lp4NA
+			审计某开源商城中的漏洞大礼包														https://mp.weixin.qq.com/s/iPOIUGOc9t-DjlFzOSqieg
+			打造属于自己的渗透神器																	https://mp.weixin.qq.com/s/prcJJWUKW3-76k3MYtQiUA
+			通过实例学习ROP技术																			https://mp.weixin.qq.com/s/wuTPDcKKe-EwrNwNo9Tjtg
+			VulnHub 中 LazySysAdmin 题目详解												https://mp.weixin.qq.com/s/Auhpkoe1NRoHmZ4REYjZ-A
+			从 Ajax 聊一聊 Jsonp 点击劫持														https://mp.weixin.qq.com/s/0rTTpt0GtBDgdjVl0dDl8Q
+			DTD 实体 XXE 浅析																				https://mp.weixin.qq.com/s/vkCdz6YCoiiJPI30KePD6g
+			用150行python代码来做代码审计笔记												https://mp.weixin.qq.com/s/ymyhrUxQIj0q9pDoZ2-x3A
+			由MetInfo 深入理解PHP变量覆盖漏洞												https://mp.weixin.qq.com/s/I7tEDv12e65KI93TCXN8Ug
+			Some trick in ssrf and trick in unserialize()						https://mp.weixin.qq.com/s/MSYZOBRzvYdmdZR_wqBP7g
+			PHP代码/命令注入小结																		https://mp.weixin.qq.com/s/e-qNJaXZh-t5H7AJEOBIAQ
+			绕过应用程序白名单技巧																	https://mp.weixin.qq.com/s/NGYhrK4dH-ikfdklEA4nUQ
+			记一次审计 xiaocms 的过程																https://mp.weixin.qq.com/s/1G6q7Mk5aQL_9yZ6t58_nA
+			SQL 注入类型详解																				https://mp.weixin.qq.com/s/BQVS7alMSdy3_SQuMymkug
+			通过POC来学习漏洞的原理																	https://mp.weixin.qq.com/s/ogFLjUpd2HU60raUxGNWhg
+			我们来聊一聊渗透测试																		https://mp.weixin.qq.com/s/w2TG-Wsnee7A2zNqe6d-nw
+			看我如何让 360 把 helloword 干掉												https://mp.weixin.qq.com/s/Fk6FWaCAYUq99DDJjDqukA
+			新手指南：Bwapp之XSS –stored														https://mp.weixin.qq.com/s/KJKAqBOm6zRokHioPG8c5g
+			细节决定成败-WIFI新玩法																	https://mp.weixin.qq.com/s/_4x2MXe2Q-oOd_qZv0bafQ
+			PHP安全开发中常见的Dos风险															https://mp.weixin.qq.com/s/zKmz6eamYCuWFGKmPWFqFA
+			同源策略和跨域访问学习笔记															http://uknowsec.cn/posts/notes/%E5%90%8C%E6%BA%90%E7%AD%96%E7%95%A5%E5%92%8C%E8%B7%A8%E5%9F%9F%E8%AE%BF%E9%97%AE%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0.html
+			ExploitDev Fuzzing                                      https://hansesecure.de/howto-exploitdev-fuzzing/
+			IP地址到ASN数据库解析网站 															https://iptoasn.com/
+			Notepad ++插件后门制作																	https://www.gironsec.com/blog/2018/03/backdooring-plugins/
+			sqlmap time-based inject 分析														http://blog.wils0n.cn/archives/178/
+			简单粗暴的文件上传漏洞																	https://mp.weixin.qq.com/s/e1jy-DFOSROmSvvzX_Ge5g		
+			Python模拟登陆某网教师教育网														http://www.freebuf.com/column/167287.html
+			调用 Assembly.LoadModule 方法实现内存加载 .NET 应用程序	https://gist.github.com/mattifestation/8958b4c18d8bca9e221b29252cfee26b
+			Windows Desktop Bridge 的工作原理与漏洞利用，来自 Zer0Con 2018	https://github.com/tyranid/Zer0Con_2018/blob/master/A%20Bridge%20too%20Far.pdf
+			关于利用rundll32执行程序的分析													https://3gstudent.github.io/3gstudent.github.io/%E5%85%B3%E4%BA%8E%E5%88%A9%E7%94%A8rundll32%E6%89%A7%E8%A1%8C%E7%A8%8B%E5%BA%8F%E7%9A%84%E5%88%86%E6%9E%90/
