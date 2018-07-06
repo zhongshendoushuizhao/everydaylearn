@@ -705,3 +705,19 @@
 
 - [ ] 10.CNVD-2018-08922 ---- CVE-2018-10515 ---- CMS Made Simple远程代码执行漏洞（CNVD-2018-08922）
 
+
+
+
+
+**2018-05-07_2018-05-13	入库286条  high75条   medium195条  low16条  提取10条**
+
+- [ ]  1.CNVD-2018-07205 ---- HAIRUICMS v2.1.4 /FileManage/fsoedit.asp文件存在代码执行漏
+- [ ]  2.CNVD-2018-07201 ---- HAIRUICMS v2.1.4 Site.asp文件存在代码执行漏洞
+- [ ]  3.CNVD-2018-08981 ---- CVE-2018-1144 ---- Belkin N750任意命令执行漏洞（CNVD-2018-08981）
+- [ ]  4.CNVD-2018-08994 ---- CVE-2018-10431 ---- D-Link DIR-615远程代码执行漏洞
+- [ ]  5.CNVD-2018-08983 ---- CVE-2018-10517 ---- CMS Made Simple远程代码执行漏洞（CNVD-2018-08983）
+- [ ]  6.CNVD-2018-09029 ---- CVE-2018-0262 ---- Cisco Meeting Server远程代码执行漏洞
+- [ ]  7.CNVD-2018-09171 ---- CVE-2018-0253 ---- Cisco Secure Access Control System远程代码执行漏洞
+- [ ]  8.CNVD-2018-09153 ---- CVE-2017-15043 ---- 多款Sierra Wireless产品任意代码执行漏洞
+- [ ]  9.CNVD-2018-09151 ---- CVE-2018-10251 ---- 多款Sierra Wireless产品任意代码执行漏洞（CNVD-2018-09151）
+- [ ]  10.CNVD-2018-09195 ---- CVE-2018-10713 ---- D-Link DSL-3782代码执行漏洞
